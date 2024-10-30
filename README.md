@@ -44,7 +44,7 @@ source venv/bin/activate #on Linux
 pip install -r requirements.txt
 ```
 
-## 4-Run app.py##
+## 4-Run app.py
 ```
 python app.py` or `flask run
 ```

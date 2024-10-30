@@ -60,6 +60,8 @@ mvn spring-boot:run
 
 ## FLask Server for Prediction
 - **POST /predict/{id}** Receives an id to predict the price range
+- ![image](https://github.com/user-attachments/assets/53f1f3d0-670a-43b1-bcda-f569468692e2)
+
 
 
 

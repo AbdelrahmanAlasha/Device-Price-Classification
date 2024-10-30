@@ -1,6 +1,6 @@
 # Device Price Classification System Using AI, Java Spring Boot and Flask
 # Project Intro
-This project is an AI-based system designed to classify device prices based on their characteristics
+This project leverages AI to classify device prices based on their specific characteristics.
 
 The project mainly consist of 3 parts:
 
@@ -8,7 +8,7 @@ The project mainly consist of 3 parts:
 
 **2-Java Spring Boot App:** Includes the endpoints, entities and controller for storing, retreiving and manipulating devices data
 
-**3- Flask Server Includes a simple Flask app to do the prediction for device:**
+**3- Flask Server:** Includes a simple Flask app to do the prediction for device
 
 # Java App
 ## 1-Navigate to 'java' Directory

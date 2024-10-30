@@ -9,23 +9,6 @@ The project mainly consist of 3 parts:
 **2-Java Spring Boot App:** Includes the endpoints, entities and controller for storing, retreiving and manipulating devices data
 
 **3- Flask Server:** Includes a simple Flask app to do the prediction for device
-
-# Java App
-## 1-Navigate to 'java' Directory
-```
-cd java
-```
-
-## 2-Clean and Install
-```
-mvn clean install
-```
-
-## 3-Run the Server
-```
-mvn spring-boot:run
-```
-
 # Python App
 
 ### 1-Clone The Repository
@@ -48,6 +31,24 @@ pip install -r requirements.txt
 ```
 python app.py` or `flask run
 ```
+
+# Java App
+## 1-Navigate to 'java' Directory
+```
+cd java
+```
+
+## 2-Clean and Install
+```
+mvn clean install
+```
+
+## 3-Run the Server
+```
+mvn spring-boot:run
+```
+
+
 
 # API Endpoints
 ## Java

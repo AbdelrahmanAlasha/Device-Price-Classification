@@ -29,7 +29,7 @@ pip install -r requirements.txt
 
 ## 4-Run app.py
 ```
-python app.py` or `flask run
+python app.py #or flask run
 ```
 
 # Java App
